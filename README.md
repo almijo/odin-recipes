@@ -1,2 +1,2 @@
 # odin-recipes
-basic recipe website
+Basic recipe website for the Odin Project foundation course
